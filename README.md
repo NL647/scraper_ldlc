@@ -15,7 +15,7 @@ run command
 ```bash
 node app.js
 ```
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/NL647/scraper_ldlc/blob/main/assets/Capture2.PNG))
 
 ## Usage api
 run command<br/>
